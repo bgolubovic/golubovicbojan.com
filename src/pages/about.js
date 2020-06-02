@@ -95,13 +95,13 @@ const AboutPage = props => {
                     details="*nbgteam"
                 />
                 <LifeEvent
-                    timePeriod="November 2013 – January 2015 (1 year 3 months)"
+                    timePeriod="June 2012 – January 2015 (2.5 years)"
                     title="Junior Front End Developer"
                     details="BlueBond"
                     location="San Francisco 🇺🇸"
                 />
                 <LifeEvent
-                    timePeriod="March 2012 – May 2014"
+                    timePeriod="March 2012 – May 2012 (3 months)"
                     title="Intern Front End Developer"
                     details="FavSync"
                 />
@@ -134,17 +134,16 @@ const AboutPage = props => {
                 </h1>
 
                 <LifeEvent
-                    timePeriod="April 2019 - Current"
-                    title="Self-Learning"
-                    details="Node.js, Express, Vue.js, React.js, Gatsby.js"
-                    location="Luxembourg 🇱🇺"
-                    current={true}
+                    timePeriod="2005 - 2013"
+                    title="BASc, Computer Science"
+                    details="IT department with classes and courses centered on Frontend Development (HTML, CSS, JavaScript), Web Development (PHP), Database Development (MySQL), System administration (Windows, Linux) and Object Oriented Programming (Java)."
+                    location="University of Belgrade, Serbia 🇸🇷"
                 />
                 <LifeEvent
-                    timePeriod="2009 - 2011"
-                    title="M.Sc. in Engineering"
-                    details="Vorarlberg University of Applied Sciences"
-                    location="Austria 🇦🇹"
+                    timePeriod="2001 - 2005"
+                    title="High School degree, Natural Sciences"
+                    details="Mathematical Sciences"
+                    location="Gymnasium, Serbia 🇸🇷"
                 />
 
                 <hr className={aboutStyle.gradientLine} />
@@ -178,9 +177,9 @@ const AboutPage = props => {
                     Interests <FontAwesomeIcon icon={faSmile} />
                 </h1>
 
-                <h2>
+                <h3>
                     Travel <FontAwesomeIcon icon={faPlane} />
-                </h2>
+                </h3>
                 {/* <p>
                     If you want to hire me, I'm interested to work in companies
                     that offer{" "}
@@ -191,17 +190,17 @@ const AboutPage = props => {
                     I can help designing solutions.
                 </p> */}
 
-                <h2>
+                <h3>
                     Technology <FontAwesomeIcon icon={faMicrochip} />
-                </h2>
+                </h3>
                 {/* <p>
                     I'm fascinated by technological advances which companies
                     such as Tesla, SpaceX, Boston Dynamics make.
                 </p> */}
 
-                <h2>
+                <h3>
                     Startups & Companies <FontAwesomeIcon icon={faRocket} />
-                </h2>
+                </h3>
                 {/* <p>
                     I have a big entrepreneurial and startup curiosity which is
                     devided in two fields. On one hand, small companies which
@@ -214,9 +213,9 @@ const AboutPage = props => {
                     as <strong>Facebook, Netflix, Spotify</strong>.
                 </p> */}
 
-                <h2>
+                <h3>
                     Coding <FontAwesomeIcon icon={faCode} />
-                </h2>
+                </h3>
                 {/* <p>
                     This is a classic cliché. After (or before) work, I enjoy
                     some coding on the side. Also, currently I'm focused on

@@ -27,17 +27,15 @@ const UsesPage = props => {
                     <tr>
                         <td>Code Editor Theme</td>
                         <td>
-                            <a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode">
-                                Synthwave '84 by Robb Owen
+                            <a href="https://github.com/microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json">
+                            Default dark+ theme
                             </a>
                         </td>
                     </tr>
                     <tr>
-                        <td>Code Editor Font</td>
+                        <td>Code Editor Icons theme</td>
                         <td>
-                            <a href="https://dank.sh">Dank Mono</a>. It support
-                            common ligatures and has a sexy italic look, similar
-                            to Operator Mono.
+                            <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a>
                         </td>
                     </tr>
                     <tr>
@@ -152,40 +150,30 @@ const UsesPage = props => {
                     <tr>
                         <td>Laptop</td>
                         <td>
-                            Macbook Pro 16", i9, 64GB. This is all I work on. No
-                            desktop computer.
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>Laptop stand</td>
-                        <td>
-                            <a href="https://www.amazon.co.uk/kalibri-Wooden-Laptop-Stand-Vertical/dp/B01JRUR5B0">
-                                kalibri Wooden Laptop Stand
+                            <a href="https://www.amazon.com/HP-EliteBook-850-G5-Thunderbolt3/dp/B07HPBQW2V">
+                              HP EliteBook 850 G5
                             </a>
                         </td>
                     </tr>
                     <tr>
                         <td>External screen</td>
                         <td>
-                            <a href="https://www.lg.com/us/monitors/lg-34UM88-P-ultrawide-monitor">
-                                34" 21:9 UltraWide® QHD IPS LED
+                            <a href="https://www.samsung.com/uk/monitors/monitor-c49j89-lc49j890dkuxen/">
+                            49" CJ890 Super-Ultra Wide Monitor with USB-C
                             </a>
                         </td>
                     </tr>
                     <tr>
-                        <td>USB-C Docking Station</td>
+                        <td>Desk</td>
                         <td>
-                            <a href="https://i-tec.cz/en/produkt/c31dualdockpd-2/">
-                                i-tec USB-C Dual Display MST Docking Station +
-                                Power Delivery 60W
-                            </a>
+                                Standing BENE office desk station
                         </td>
                     </tr>
                     <tr>
                         <td>Office Chair</td>
                         <td>
-                            <a href="https://www.noblechairs.com/epic-series">
-                                Noblechairs Epic
+                            <a href="https://anaks-namestaj.com/proizvod/radna-stolica-inet/">
+                                Anax iNet
                             </a>
                         </td>
                     </tr>
