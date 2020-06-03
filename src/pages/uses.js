@@ -9,13 +9,13 @@ const UsesPage = props => {
             <Head title="Uses" path={props.path} />
             <div className={mainStyles.postContent}>
                 <p>
-                    Sometimes, people ask me what IDE, theme, font, etc I use.
+                    Sometimes, people ask me what IDE, theme, icons, etc I use.
                     So I decided to write up a little post that sums up. This
                     page is inspired by{" "}
                     <a href="https://wesbos.com/uses">Wes Bos' uses page</a>.
                 </p>
 
-                <h1>Editor + Terminal</h1>
+                <h2>Editor + Terminal</h2>
 
                 <table className={mainStyles.table}>
                     <tr>
@@ -33,7 +33,7 @@ const UsesPage = props => {
                         </td>
                     </tr>
                     <tr>
-                        <td>Code Editor Icons theme</td>
+                        <td>Code Editor Icons</td>
                         <td>
                             <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a>
                         </td>
@@ -48,13 +48,12 @@ const UsesPage = props => {
                     </tr>
                 </table>
 
-                <h1>Desktop Apps</h1>
+                <h2>Desktop Apps</h2>
                 <table className={mainStyles.table}>
                     <tr>
                         <td>Email</td>
                         <td>
                             <a href="https://superhuman.com">Superhuman</a>{" "}
-                            (I've got invites if you're interested)
                         </td>
                     </tr>
                     <tr>
@@ -71,26 +70,11 @@ const UsesPage = props => {
                         </td>
                     </tr>
                     <tr>
-                        <td>Office Suite</td>
+                        <td>VPN Client</td>
                         <td>
-                            I am a big fan of the{" "}
-                            <a href="https://www.apple.com/iwork/">
-                                Apple iWork
+                            <a href="https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html">
+                            Cisco AnyConnect
                             </a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>VPN Client (for custom connections)</td>
-                        <td>
-                            <a href="https://www.sparklabs.com/viscosity/">
-                                Viscosity
-                            </a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>VPN Client (for privacy/safety)</td>
-                        <td>
-                            <a href="https://www.expressvpn.com/">ExpressVPN</a>
                         </td>
                     </tr>
                     <tr>
@@ -105,7 +89,7 @@ const UsesPage = props => {
                     </tr>
                 </table>
 
-                <h1>Hosting & Co.</h1>
+                <h2>Hosting & Co.</h2>
 
                 <table className={mainStyles.table}>
                     <tr>
@@ -144,7 +128,7 @@ const UsesPage = props => {
                     </tr>
                 </table>
 
-                <h1>Workstation Setup</h1>
+                <h2>Workstation Setup</h2>
 
                 <table className={mainStyles.table}>
                     <tr>
