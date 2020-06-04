@@ -19,7 +19,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
     if (!socialCardMeta) {
         socialCardMeta = [
             { name: "twitter:card", content: "summary_large_image" },
-            { name: "twitter:site", content: "@_marcba" },
+            { name: "twitter:site", content: "@bgolubovic" },
             {
                 name: "twitter:title",
                 content: title,
@@ -27,11 +27,11 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
             {
                 name: "twitter:description",
                 content:
-                    "Marc is a Full-Stack Web Developer based in Luxembourg 👨‍💻",
+                    "Bojan is a Lead FrontEnd Developer based in Serbia 👨‍💻",
             },
             {
                 name: "twitter:image",
-                content: "https://marc.dev/images/socialCard.jpg",
+                content: "https://golubovicbojan.com/images/socialCard.jpg",
             },
             {
                 name: "og:title",
@@ -40,11 +40,11 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
             {
                 name: "og:description",
                 content:
-                    "Marc is a Full-Stack Web Developer based in Luxembourg 👨‍💻",
+                "Bojan is a Lead FrontEnd Developer based in Serbia 👨‍💻",
             },
             {
                 name: "og:image",
-                content: "https://marc.dev/images/socialCard.jpg",
+                content: "https://golubovicbojan.com/images/socialCard.jpg",
             },
         ]
     }
@@ -52,7 +52,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
     const meta = [
         {
             name: "description",
-            content: "Marc is a Full-Stack Web Developer based in Luxembourg",
+            content: "Bojan is a Lead FrontEnd Developer based in Serbia",
         },
         ...socialCardMeta,
     ]
