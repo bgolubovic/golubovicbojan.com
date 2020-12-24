@@ -54,7 +54,7 @@ const AboutPage = props => {
                             Hi, I'm Bojan,&nbsp;
                             <strong>lead front end developer</strong> 💻 with a
                             strong educational and experiance background in software
-                            engineering. A happily married family guy, 30-something-year-old comming from Serbia 🇸🇷.
+                            engineering. A happily married family guy, 30-something-year-old comming from Serbia 🇷🇸.
                             I do work remotely for international clients.
                         </p>
                     </div>{" "}
@@ -137,13 +137,13 @@ const AboutPage = props => {
                     timePeriod="2005 - 2013"
                     title="BASc, Computer Science"
                     details="IT department with classes and courses centered on Frontend Development (HTML, CSS, JavaScript), Web Development (PHP), Database Development (MySQL), System administration (Windows, Linux) and Object Oriented Programming (Java)."
-                    location="University of Belgrade, Serbia 🇸🇷"
+                    location="University of Belgrade, Serbia 🇷🇸"
                 />
                 <LifeEvent
                     timePeriod="2001 - 2005"
                     title="High School degree, Natural Sciences"
                     details="Mathematical Sciences"
-                    location="Gymnasium, Serbia 🇸🇷"
+                    location="Gymnasium, Serbia 🇷🇸"
                 />
 
                 <hr className={aboutStyle.gradientLine} />
@@ -159,7 +159,7 @@ const AboutPage = props => {
                         <td>Fluent</td>
                     </tr>
                     <tr>
-                        <td>Serbian 🇸🇷</td>
+                        <td>Serbian 🇷🇸</td>
                         <td>Mothertongue</td>
                     </tr>
                     <tr>
