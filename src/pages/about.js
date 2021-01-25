@@ -52,7 +52,7 @@ const AboutPage = props => {
                         </h1>
                         <p>
                             Hi, I'm Bojan,&nbsp;
-                            <strong>lead front end developer</strong> 💻 with a
+                            <strong>JavaScript Engineer</strong> 💻 with a
                             strong educational and experiance background in software
                             engineering. A happily married family guy, 30-something-year-old comming from Serbia 🇷🇸.
                             I do work remotely for international clients.
