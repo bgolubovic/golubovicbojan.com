@@ -116,17 +116,12 @@ const IndexPage = props => {
                     <br />
                 </h2>
                 <p>
-                    I am a <strong>lead front end developer,</strong>{" "}
-                    highly passionate about cracking the toughest challenges.
-                    Good solution is not good enough, must be excellent, innovative, clean and cool.
-                    I understand design patterns and their implementation. Always strives to provide best,
-                    but really the best practice solutions.
-                    I want to understand the business context and logic behind the software solution.
+                    I am a <strong>JavaScript Engineer.</strong>{" "}
+                    I love helping companies build products and sites, that can take their business to the next level using latest technologies.
+                    Helped company to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies. Also, created cutting edge technology product, most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
                 </p>
                 <p>
-                    I can handle an arbitrary coding problem, not just a specific <strong>technology</strong>.
-                    I have ownership mentality, take pride in delivery, own a project/task from its start to the final delivery.
-                    Teamwork player, share ideas, problems and quickly process feedback.
+                    Highly passionate about cracking the toughest challenges. When it comes to the solutions, good is not good enough. I want it to be excellent, innovative, clean and cool. Understand design patterns and their implementation in real life coding problems and always strives to provide the best, but really the best practice solutions. Want to understand the business context and logic behind the software solution.
                 </p>
 
                 <p>
