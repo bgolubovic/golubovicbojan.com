@@ -27,7 +27,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
             {
                 name: "twitter:description",
                 content:
-                    "Bojan is a Lead FrontEnd Developer based in Serbia 👨‍💻",
+                    "I'm Bojan • JavaScript Engineer!",
             },
             {
                 name: "twitter:image",
