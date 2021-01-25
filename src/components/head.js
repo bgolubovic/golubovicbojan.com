@@ -40,7 +40,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
             {
                 name: "og:description",
                 content:
-                "Bojan is a Lead FrontEnd Developer based in Serbia 👨‍💻",
+                "I'm Bojan • JavaScript Engineer!",
             },
             {
                 name: "og:image",
@@ -52,7 +52,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
     const meta = [
         {
             name: "description",
-            content: "Bojan is a Lead FrontEnd Developer based in Serbia",
+            content: "I'm Bojan • JavaScript Engineer!",
         },
         ...socialCardMeta,
     ]
