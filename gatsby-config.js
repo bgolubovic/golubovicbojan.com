@@ -80,7 +80,7 @@ module.exports = {
 
         // For loading external Google Fonts
         {
-            resolve: `gatsby-plugin-prefetch-google-fonts`,
+            resolve: `gatsby-plugin-google-fonts`,
             options: {
                 fonts: [
                     {
