@@ -106,18 +106,14 @@ const IndexPage = props => {
                 </h1>
 
                 <h2 className={indexStyles.title}>
-                    I'm Bojan {profilePicture} and
-                    I&nbsp;
-                    <FontAwesomeIcon
-                        icon={faHeart}
-                        className={indexStyles.heart}
-                    />
-                    &nbsp;JavaScript!
+                    I'm Bojan {profilePicture}
+                    &nbsp;JavaScript Engineer!
                     <br />
                 </h2>
                 <p>
-                    I am a <strong>JavaScript Engineer.</strong>{" "}
                     I love helping companies build products and sites, that can take their business to the next level using latest technologies.
+                </p>
+                <p>
                     Helped company to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies. Also, created cutting edge technology product, most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
                 </p>
                 <p>
