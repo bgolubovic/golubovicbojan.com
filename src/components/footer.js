@@ -35,7 +35,6 @@ const Footer = () => {
                         className={footerStyles.gatsbyLogo}
                     />
                 </a>
-                originally by &nbsp; <a href="https://marc.dev/" alt="Marc">Marc</a>
             </p>
             <p className={footerStyles.small}>
                 {metadata.hostname} v.{metadata.version}
