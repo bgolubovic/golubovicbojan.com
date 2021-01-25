@@ -4,7 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
     if (!canonicalUrl && path) {
-        canonicalUrl = `https://marc.dev${path}`
+        canonicalUrl = `https://www.golubovicbojan.com${path}`
     }
     const data = useStaticQuery(graphql`
         query {
@@ -22,7 +22,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
             { name: "twitter:site", content: "@bgolubovic" },
             {
                 name: "twitter:title",
-                content: title,
+                content: title || 'golubovicbojan.com',
             },
             {
                 name: "twitter:description",
