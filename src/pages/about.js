@@ -48,7 +48,7 @@ const AboutPage = props => {
                     <div>{profilePicture}</div>
                     <div className={aboutStyle.introText}>
                         <h1>
-                            Hello <FontAwesomeIcon icon={faHandPeace} />
+                            Hello <FontAwesomeIcon icon={faHandPeace} size="lg" />
                         </h1>
                         <p>
                             Hi, I'm Bojan,&nbsp;
@@ -63,58 +63,48 @@ const AboutPage = props => {
                 <hr className={aboutStyle.gradientLine} />
 
                 <h1>
-                    Work experience <FontAwesomeIcon icon={faLaptopCode} />
+                    Work experience <FontAwesomeIcon icon={faLaptopCode} size="lg" />
                 </h1>
 
                 <LifeEvent
                     timePeriod="March 2020 - Current"
-                    title="Senior Front End Developer"
+                    title="Senior Frontend Developer"
                     details="Astrata"
                     location="Eindhoven"
                     current={true}
                 />
 
                 <LifeEvent
-                    timePeriod="May 2016 - May 2020 (4 years)"
-                    title="Senior Front End Developer"
+                    timePeriod="March 2016 - March 2020 (4 years)"
+                    title="Senior Frontend Developer"
                     details="Seavus"
                 />
                 <LifeEvent
-                    timePeriod="August 2015 - August 2016 (1 year)"
-                    title="Front End Developer"
+                    timePeriod="February 2015 - February 2016 (1 year)"
+                    title="Frontend Developer"
                     details="StangaOne1"
                 />
                 <LifeEvent
-                    timePeriod="December 2015 - May 2016 (6 months)"
-                    title="Front End Developer (part-time)"
-                    details="Neopix"
-                />
-                <LifeEvent
-                    timePeriod="February 2015 – September 2015 (8 months)"
-                    title="Front End Developer"
+                    timePeriod="February 2014 – January 2015 (~1 year)"
+                    title="Frontend Developer"
                     details="*nbgteam"
                 />
                 <LifeEvent
-                    timePeriod="June 2012 – January 2015 (2.5 years)"
-                    title="Junior Front End Developer"
+                    timePeriod="January 2012 – January 2014 (2 years)"
+                    title="Junior Frontend Developer"
                     details="BlueBond"
                     location="San Francisco 🇺🇸"
                 />
                 <LifeEvent
-                    timePeriod="March 2012 – May 2012 (3 months)"
-                    title="Intern Front End Developer"
+                    timePeriod="November 2011 – December 2011 (2 months)"
+                    title="Intern Frontend Developer"
                     details="FavSync"
-                />
-                <LifeEvent
-                    timePeriod="March 2011 – August 2013"
-                    title="Part-Time Freelance Frontend Developer"
-                    details="Self-Employed"
                 />
 
                 <hr className={aboutStyle.gradientLine} />
 
                 <h1>
-                    Tech Skills <FontAwesomeIcon icon={faWrench} />
+                    Tech Skills <FontAwesomeIcon icon={faWrench} size="lg" />
                 </h1>
 
                 <div className={aboutStyle.skills}>
@@ -130,7 +120,7 @@ const AboutPage = props => {
                 <hr className={aboutStyle.gradientLine} />
 
                 <h1>
-                    Education <FontAwesomeIcon icon={faGraduationCap} />
+                    Education <FontAwesomeIcon icon={faGraduationCap} size="lg" />
                 </h1>
 
                 <LifeEvent
@@ -150,7 +140,7 @@ const AboutPage = props => {
 
                 <h1>
                     Language Skills&nbsp;
-                    <FontAwesomeIcon icon={faLanguage} />
+                    <FontAwesomeIcon icon={faLanguage} size="lg" />
                 </h1>
 
                 <table className={mainStyle.table}>
@@ -174,11 +164,11 @@ const AboutPage = props => {
 
                 <hr className={aboutStyle.gradientLine} />
                 <h1>
-                    Interests <FontAwesomeIcon icon={faSmile} />
+                    Interests <FontAwesomeIcon icon={faSmile} size="lg" />
                 </h1>
 
                 <h3>
-                    Travel <FontAwesomeIcon icon={faPlane} />
+                    Travel <FontAwesomeIcon icon={faPlane} size="lg" />
                 </h3>
                 {/* <p>
                     If you want to hire me, I'm interested to work in companies
@@ -191,7 +181,7 @@ const AboutPage = props => {
                 </p> */}
 
                 <h3>
-                    Technology <FontAwesomeIcon icon={faMicrochip} />
+                    Technology <FontAwesomeIcon icon={faMicrochip} size="lg" />
                 </h3>
                 {/* <p>
                     I'm fascinated by technological advances which companies
@@ -199,7 +189,7 @@ const AboutPage = props => {
                 </p> */}
 
                 <h3>
-                    Startups & Companies <FontAwesomeIcon icon={faRocket} />
+                    Startups & Companies <FontAwesomeIcon icon={faRocket} size="lg" />
                 </h3>
                 {/* <p>
                     I have a big entrepreneurial and startup curiosity which is
@@ -214,7 +204,7 @@ const AboutPage = props => {
                 </p> */}
 
                 <h3>
-                    Coding <FontAwesomeIcon icon={faCode} />
+                    Coding <FontAwesomeIcon icon={faCode} size="lg" />
                 </h3>
                 {/* <p>
                     This is a classic cliché. After (or before) work, I enjoy

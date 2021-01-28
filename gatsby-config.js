@@ -14,7 +14,7 @@ module.exports = {
         title:
             "Front-End Developer | Bojan Golubovic | JavaScript, React.js",
         author: "Bojan Golubovic",
-        version: "1.0.1",
+        version: "1.0.2",
         hostname: process.env.HOSTNAME,
     },
     plugins: [
