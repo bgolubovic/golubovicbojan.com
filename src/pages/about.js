@@ -48,7 +48,7 @@ const AboutPage = props => {
                     <div>{profilePicture}</div>
                     <div className={aboutStyle.introText}>
                         <h1>
-                            Hello <FontAwesomeIcon icon={faHandPeace} size="lg" />
+                            Hello <FontAwesomeIcon icon={faHandPeace} size="xs" />
                         </h1>
                         <p>
                             Hi, I'm Bojan,&nbsp;
@@ -63,7 +63,7 @@ const AboutPage = props => {
                 <hr className={aboutStyle.gradientLine} />
 
                 <h1>
-                    Work experience <FontAwesomeIcon icon={faLaptopCode} size="lg" />
+                    Work experience <FontAwesomeIcon icon={faLaptopCode} size="xs" />
                 </h1>
 
                 <LifeEvent
@@ -104,7 +104,7 @@ const AboutPage = props => {
                 <hr className={aboutStyle.gradientLine} />
 
                 <h1>
-                    Tech Skills <FontAwesomeIcon icon={faWrench} size="lg" />
+                    Tech Skills <FontAwesomeIcon icon={faWrench} size="xs" />
                 </h1>
 
                 <div className={aboutStyle.skills}>
@@ -120,7 +120,7 @@ const AboutPage = props => {
                 <hr className={aboutStyle.gradientLine} />
 
                 <h1>
-                    Education <FontAwesomeIcon icon={faGraduationCap} size="lg" />
+                    Education <FontAwesomeIcon icon={faGraduationCap} size="xs" />
                 </h1>
 
                 <LifeEvent
@@ -140,7 +140,7 @@ const AboutPage = props => {
 
                 <h1>
                     Language Skills&nbsp;
-                    <FontAwesomeIcon icon={faLanguage} size="lg" />
+                    <FontAwesomeIcon icon={faLanguage} size="xs" />
                 </h1>
 
                 <table className={mainStyle.table}>
@@ -164,11 +164,11 @@ const AboutPage = props => {
 
                 <hr className={aboutStyle.gradientLine} />
                 <h1>
-                    Interests <FontAwesomeIcon icon={faSmile} size="lg" />
+                    Interests <FontAwesomeIcon icon={faSmile} size="xs" />
                 </h1>
 
                 <h3>
-                    Travel <FontAwesomeIcon icon={faPlane} size="lg" />
+                    Travel <FontAwesomeIcon icon={faPlane} size="xs" />
                 </h3>
                 {/* <p>
                     If you want to hire me, I'm interested to work in companies
@@ -181,7 +181,7 @@ const AboutPage = props => {
                 </p> */}
 
                 <h3>
-                    Technology <FontAwesomeIcon icon={faMicrochip} size="lg" />
+                    Technology <FontAwesomeIcon icon={faMicrochip} size="xs" />
                 </h3>
                 {/* <p>
                     I'm fascinated by technological advances which companies
@@ -189,7 +189,7 @@ const AboutPage = props => {
                 </p> */}
 
                 <h3>
-                    Startups & Companies <FontAwesomeIcon icon={faRocket} size="lg" />
+                    Startups & Companies <FontAwesomeIcon icon={faRocket} size="xs" />
                 </h3>
                 {/* <p>
                     I have a big entrepreneurial and startup curiosity which is
@@ -204,7 +204,7 @@ const AboutPage = props => {
                 </p> */}
 
                 <h3>
-                    Coding <FontAwesomeIcon icon={faCode} size="lg" />
+                    Coding <FontAwesomeIcon icon={faCode} size="xs" />
                 </h3>
                 {/* <p>
                     This is a classic cliché. After (or before) work, I enjoy
