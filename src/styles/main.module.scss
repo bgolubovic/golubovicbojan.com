@@ -271,8 +271,8 @@
 
 .button {
   display: inline-block;
-  border: solid 2px var(--textLink);
-  color: var(--textLink);
+  border: solid 2px #1f2f98;
+  color:  #1ca7ec;
   padding: 0.5rem 1rem;
   border-radius: 100px;
   transition: all 0.3s ease-in-out;
@@ -280,7 +280,7 @@
   text-decoration: none;
 
   &:hover {
-    background: var(--textLink);
+    background: #1ca7ec;
     color: #fff;
   }
 }
