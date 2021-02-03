@@ -6,7 +6,7 @@
   height: 1.2rem;
   background: transparent;
   margin-left: -2rem;
-  top: calc(50% - 0.6rem);
+  top: 1.5rem;
   color: transparent;
   // border: solid 2px red;
   border-radius: 50%;
@@ -72,7 +72,7 @@
 }
 
 .info {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   margin: 0;
   color: var(--lightText);
 }
@@ -88,9 +88,15 @@
   color: var(--textNormal);
 }
 
-.details {
-  font-size: 0.9rem;
+.company {
+  font-size: 0.8rem;
   font-weight: bold;
+  color: var(--textNormal);
+  margin: 0;
+}
+
+.details {
+  font-size: 0.7rem;
   color: var(--lightText);
   margin: 0;
 }

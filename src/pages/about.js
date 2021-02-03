@@ -69,20 +69,24 @@ const AboutPage = props => {
                 <LifeEvent
                     timePeriod="March 2020 - Current"
                     title="Senior Frontend Developer"
-                    details="Astrata"
-                    location="Eindhoven"
+                    company="Astrata"
+                    details="Helped company to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies.
+                    Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
+                    Building enterprise management software solution, with completely redesigned powerful web-based commercial fleet solution. The latest version of this advanced web-based platform for commercial fleets offers real time information and complete fleet management via its innovative User Experience (UX)."
                     current={true}
                 />
 
                 <LifeEvent
                     timePeriod="March 2016 - March 2020 (4 years)"
                     title="Senior Frontend Developer"
-                    details="Seavus"
+                    company="Seavus"
+                    details="Created cutting edge technology product for company Solera, the most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. "
                 />
                 <LifeEvent
                     timePeriod="February 2015 - February 2016 (1 year)"
                     title="Frontend Developer"
-                    details="StangaOne1"
+                    company="StangaOne1"
+                    details="Met clients expectations by delivering projects on time with high quality."
                 />
                 <LifeEvent
                     timePeriod="February 2014 – January 2015 (~1 year)"

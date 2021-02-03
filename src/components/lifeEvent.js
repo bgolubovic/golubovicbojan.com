@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faCalendar } from "@fortawesome/free-regular-svg-icons"
 import { faMapPin } from "@fortawesome/free-solid-svg-icons"
 
-const Footer = ({ timePeriod, title, details, location, current }) => {
+const Footer = ({ timePeriod, title, details, company, location, current }) => {
     const dot = current ? <div className={lifeEventStyles.dotCurrent}></div> : <div className={lifeEventStyles.dot}></div>
     const locationOut = location ? <span className={lifeEventStyles.location}><FontAwesomeIcon icon={faMapPin} /> {location} </span> :
     <span className={lifeEventStyles.location}></span>
@@ -20,7 +20,8 @@ const Footer = ({ timePeriod, title, details, location, current }) => {
             <h2 className={lifeEventStyles.title}>
                 {title}
             </h2>
-            <p className={lifeEventStyles.details}>{details}</p>
+            <p className={lifeEventStyles.company}>{company}</p>
+            {details && <p className={lifeEventStyles.details}>{details}</p>}
         </div>
     )
 }
