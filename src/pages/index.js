@@ -114,7 +114,9 @@ const IndexPage = props => {
                     I love helping companies build products and sites, that can take their business to the next level using latest technologies.
                 </p>
                 <p>
-                    Helped company to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies. Also, created cutting edge technology product, most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
+                    Helping company Astrata to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies.
+                    Created cutting edge technology product for company Solera, the most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
+                    Creator and architect of Seavus Online Banking Solution, unique, reliable and straightforward digital experience for private individuals and corporate customers.
                 </p>
                 <p>
                     Highly passionate about cracking the toughest challenges. When it comes to the solutions, good is not good enough. I want it to be excellent, innovative, clean and cool. Understand design patterns and their implementation in real life coding problems and always strives to provide the best, but really the best practice solutions. Want to understand the business context and logic behind the software solution.
