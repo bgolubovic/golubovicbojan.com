@@ -107,11 +107,11 @@ const IndexPage = props => {
 
                 <h2 className={indexStyles.title}>
                     I'm Bojan {profilePicture}
-                    &nbsp;JavaScript Engineer!
+                    &nbsp;Front End Lead!
                     <br />
                 </h2>
                 <p>
-                    I love helping companies build products and sites, that can take their business to the next level using latest technologies.
+                    I love helping companies build products and sites, that can take their business to the next-level using latest technologies.
                 </p>
                 <p>
                     Helping company Astrata to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies.

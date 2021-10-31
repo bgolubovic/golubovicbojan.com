@@ -52,7 +52,7 @@ const AboutPage = props => {
                         </h1>
                         <p>
                             Hi, I'm Bojan,&nbsp;
-                            <strong>JavaScript Engineer</strong> 💻 with a
+                            <strong>Front End Lead</strong> 💻 with a
                             strong educational and experiance background in software
                             engineering. A happily married family guy, 30-something-year-old comming from Serbia 🇷🇸.
                             I do work remotely for international clients.
@@ -67,13 +67,22 @@ const AboutPage = props => {
                 </h1>
 
                 <LifeEvent
-                    timePeriod="March 2020 - Current"
+                    timePeriod="July 2021 - Current"
+                    title="Front End Lead"
+                    company="Symphony"
+                    details="Architect of hospital managers Dashboard/Scheduler application, authentification and authorization, dashboard interactive data representation, scheduler functionality with the calendar.
+                    Worked on a healthcare application that provides a way for its users to contact their doctors, preview or download test results, look at overall and historical health measurements, and order healthcare products.
+                    Helped and led the project to get to the MVP stage with high-quality standards and with as few as possible bugs. Always having in mind future users and their needs. The focus was on team communication, coaching, and leading the team."
+                    current={true}
+                />
+
+                <LifeEvent
+                    timePeriod="March 2020 - July 2021 (1 year 5 months)"
                     title="Senior Frontend Developer"
                     company="Astrata"
                     details="Helped company to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies.
                     Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
                     Building enterprise management software solution, with completely redesigned powerful web-based commercial fleet solution. The latest version of this advanced web-based platform for commercial fleets offers real time information and complete fleet management via its innovative User Experience (UX)."
-                    current={true}
                 />
 
                 <LifeEvent
@@ -89,7 +98,7 @@ const AboutPage = props => {
                     details="Met clients expectations by delivering projects on time with high quality."
                 />
                 <LifeEvent
-                    timePeriod="February 2014 – January 2015 (~1 year)"
+                    timePeriod="February 2014 – January 2015 (1 year)"
                     title="Frontend Developer"
                     details="*nbgteam"
                 />

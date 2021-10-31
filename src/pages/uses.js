@@ -136,6 +136,9 @@ const UsesPage = props => {
                         <td>
                             <a href="https://www.amazon.com/HP-EliteBook-850-G5-Thunderbolt3/dp/B07HPBQW2V">
                               HP EliteBook 850 G5
+                            </a>&nbsp;
+                            <a href="https://www.apple.com/">
+                              MacBook Pro
                             </a>
                         </td>
                     </tr>
