@@ -52,10 +52,9 @@ const AboutPage = props => {
                         </h1>
                         <p>
                             Hi, I'm Bojan,&nbsp;
-                            <strong>Front End Lead</strong> 💻 with a
+                            <strong>Head of Frontend</strong> 💻 with a
                             strong educational and experiance background in software
-                            engineering. A happily married family guy, 30-something-year-old comming from Serbia 🇷🇸.
-                            I do work remotely for international clients.
+                            engineering.
                         </p>
                     </div>{" "}
                 </div>
@@ -67,13 +66,30 @@ const AboutPage = props => {
                 </h1>
 
                 <LifeEvent
-                    timePeriod="July 2021 - Current"
+                    timePeriod="July 2022 - Current"
+                    title="Head of Frontend"
+                    company="Symphony"
+                    details="Head of Frontend (Nis Hub):&nbsp;
+                    - People management&nbsp;
+                    - Recruitment&nbsp;
+                    - Capability leader&nbsp;
+                    - Career development&nbsp;
+                    - Coaching and mentoring&nbsp;
+                    - Performance reviews&nbsp;
+                    - Projects reviews&nbsp;
+                    - Administration&nbsp;
+                    - Evaluations, 1:1's, defining OKR's&nbsp;
+                    - Conducting technical interviews"&nbsp;
+                    current={true}
+                />
+
+                <LifeEvent
+                    timePeriod="July 2021 - July 2022"
                     title="Front End Lead"
                     company="Symphony"
                     details="Architect of hospital managers Dashboard/Scheduler application, authentification and authorization, dashboard interactive data representation, scheduler functionality with the calendar.
                     Worked on a healthcare application that provides a way for its users to contact their doctors, preview or download test results, look at overall and historical health measurements, and order healthcare products.
                     Helped and led the project to get to the MVP stage with high-quality standards and with as few as possible bugs. Always having in mind future users and their needs. The focus was on team communication, coaching, and leading the team."
-                    current={true}
                 />
 
                 <LifeEvent

@@ -107,23 +107,31 @@ const IndexPage = props => {
 
                 <h2 className={indexStyles.title}>
                     I'm Bojan {profilePicture}
-                    &nbsp;Front End Lead!
+                    &nbsp;Head of Frontend!
                     <br />
                 </h2>
                 <p>
-                    I love helping companies build products and sites, that can take their business to the next-level using latest technologies.
+                    Head of Frontend | Technology Line Manager | Capability Leader | Front End Lead | Front End Architect
                 </p>
                 <p>
-                    Helping company Astrata to keep current and gain new customers and users on company's flagship product, by transfer product to new technologies.
-                    Created cutting edge technology product for company Solera, the most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
-                    Creator and architect of Seavus Online Banking Solution, unique, reliable and straightforward digital experience for private individuals and corporate customers.
+                    I readily face the challenges of today’s technology. I am helping startups, entrepreneurs, and companies to grow faster, and build products and services which take their business to the next level using the latest technologies.
                 </p>
                 <p>
-                    Highly passionate about cracking the toughest challenges. When it comes to the solutions, good is not good enough. I want it to be excellent, innovative, clean and cool. Understand design patterns and their implementation in real life coding problems and always strives to provide the best, but really the best practice solutions. Want to understand the business context and logic behind the software solution.
+                    Responsible for quality of the delivered code, providing support through the technical improvement of the teams, implementation of the standards and processes, project assessment, and selection process.
+                </p>
+                <p>
+                    Working in Symphony building world-class solutions for US-based start-ups.
+                    Helped company Astrata keep current and gain new customers and users on the company's flagship product by transferring products to new technologies. 
+                    Created cutting-edge technology products for company Solera, the most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
+                    Creator and architect of Seavus Online Banking Solution, a unique, reliable, and straightforward digital experience for private individuals and corporate customers.
+                    And many more...
+                </p>
+                <p>
+                    Highly passionate about cracking the toughest challenges. When it comes to the solutions, good is not good enough. I want it to be excellent, innovative, clean and cool. Understand design patterns and their implementation in real life coding problems and always strives to provide the best, but really the best practice solutions. Want to understand the business context and logic behind the software solutios?
                 </p>
 
                 <p>
-                    If you have any web development needs, feel free to{" "}
+                    If you have any needs, feel free to{" "}
                     <Link to="/contact" className={mainStyles.link}>
                         contact
                     </Link>{" "}

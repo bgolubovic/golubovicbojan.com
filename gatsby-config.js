@@ -12,9 +12,9 @@ const path = require("path")
 module.exports = {
     siteMetadata: {
         title:
-            "Front-End Developer | Bojan Golubovic | JavaScript, React.js",
+            "Head of Frontend | Technology Line Manager | Capability Leader | Front End Lead | Front End Architect",
         author: "Bojan Golubovic",
-        version: "1.1.0",
+        version: "1.2.0",
         hostname: process.env.HOSTNAME,
     },
     plugins: [
