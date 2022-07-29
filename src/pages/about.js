@@ -79,7 +79,7 @@ const AboutPage = props => {
                     - Projects reviews&nbsp;
                     - Administration&nbsp;
                     - Evaluations, 1:1's, defining OKR's&nbsp;
-                    - Conducting technical interviews"&nbsp;
+                    - Conducting technical interviews&nbsp;"
                     current={true}
                 />
 
