@@ -107,11 +107,11 @@ const IndexPage = props => {
 
                 <h2 className={indexStyles.title}>
                     I'm Bojan {profilePicture}
-                    &nbsp;Head of Frontend!
+                    &nbsp;Engineering Manager!
                     <br />
                 </h2>
                 <p>
-                    Head of Frontend | Technology Line Manager | Capability Leader | Front End Lead | Front End Architect
+                    Engineering Manager | Head of Software Engineering | Technology Line Manager
                 </p>
                 <p>
                     I readily face the challenges of today’s technology. I am helping startups, entrepreneurs, and companies to grow faster, and build products and services which take their business to the next level using the latest technologies.
