@@ -15,8 +15,12 @@ const Skill = ({ name, file, progress }) => {
                     node {
                         name
                         childImageSharp {
-                            fixed(width: 130) {
-                                ...GatsbyImageSharpFixed
+                            fixed(width: 130) {                       
+                                base64
+                                width
+                                height
+                                src
+                                srcSet
                             }
                         }
                     }
