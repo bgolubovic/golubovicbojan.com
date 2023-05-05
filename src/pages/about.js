@@ -52,7 +52,7 @@ const AboutPage = props => {
                         </h1>
                         <p>
                             Hi, I'm Bojan,&nbsp;
-                            <strong>Head of Frontend</strong> 💻 with a
+                            <strong>Engineering Manager</strong> 💻 with a
                             strong educational and experiance background in software
                             engineering.
                         </p>
@@ -69,7 +69,7 @@ const AboutPage = props => {
                     timePeriod="July 2022 - Current"
                     title="Head of Frontend"
                     company="Symphony"
-                    details="Head of Frontend (Nis Hub):&nbsp;
+                    details="Head of Software Engineering:&nbsp;
                     - People management&nbsp;
                     - Recruitment&nbsp;
                     - Capability leader&nbsp;
@@ -85,7 +85,7 @@ const AboutPage = props => {
 
                 <LifeEvent
                     timePeriod="July 2021 - July 2022"
-                    title="Front End Lead"
+                    title="Principal Frontend Engineer"
                     company="Symphony"
                     details="Architect of hospital managers Dashboard/Scheduler application, authentification and authorization, dashboard interactive data representation, scheduler functionality with the calendar.
                     Worked on a healthcare application that provides a way for its users to contact their doctors, preview or download test results, look at overall and historical health measurements, and order healthcare products.
