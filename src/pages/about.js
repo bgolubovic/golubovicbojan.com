@@ -67,19 +67,19 @@ const AboutPage = props => {
 
                 <LifeEvent
                     timePeriod="July 2022 - Current"
-                    title="Head of Frontend"
+                    title="Head of Software Engineering"
                     company="Symphony"
-                    details="Head of Software Engineering:&nbsp;
+                    details="
                     - People management&nbsp;
                     - Recruitment&nbsp;
-                    - Capability leader&nbsp;
+                    - Engineering Management&nbsp;
                     - Career development&nbsp;
                     - Coaching and mentoring&nbsp;
                     - Performance reviews&nbsp;
-                    - Projects reviews&nbsp;
-                    - Administration&nbsp;
-                    - Evaluations, 1:1's, defining OKR's&nbsp;
-                    - Conducting technical interviews&nbsp;"
+                    - Team Leadership&nbsp;
+                    - Evaluations&nbsp;
+                    - Process Improvements&nbsp;
+                    - Project Management&nbsp;"
                     current={true}
                 />
 
