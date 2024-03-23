@@ -12,7 +12,7 @@ const path = require("path")
 module.exports = {
     siteMetadata: {
         title:
-            "Engineering Manager | Head of Software Engineering",
+            "Bojan Golubovic | Engineering Manager | Head of Software Engineering",
         author: "Bojan Golubovic",
         version: "1.3.0",
         hostname: process.env.HOSTNAME,
