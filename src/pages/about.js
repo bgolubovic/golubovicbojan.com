@@ -67,19 +67,19 @@ const AboutPage = props => {
 
                 <LifeEvent
                     timePeriod="July 2022 - Current"
-                    title="Head of Software Engineering"
+                    title="Engineering Manager | Head of Software Engineering"
                     company="Symphony"
                     details="
                     - People management&nbsp;
-                    - Recruitment&nbsp;
-                    - Engineering Management&nbsp;
-                    - Career development&nbsp;
-                    - Coaching and mentoring&nbsp;
-                    - Performance reviews&nbsp;
-                    - Team Leadership&nbsp;
-                    - Evaluations&nbsp;
-                    - Process Improvements&nbsp;
-                    - Project Management&nbsp;"
+                    - Performance management&nbsp;
+                    - Talent management&nbsp;
+                    - Strategic planning&nbsp;
+                    - Project management&nbsp;
+                    - Time management&nbsp;
+                    - Resource management&nbsp;
+                    - Change management&nbsp;
+                    - Risk management&nbsp;
+                    - Selection process&nbsp;"
                     current={true}
                 />
 
