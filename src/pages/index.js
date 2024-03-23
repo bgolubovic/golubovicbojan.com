@@ -85,7 +85,7 @@ const IndexPage = props => {
 
     return (
         <Layout>
-            <Head title="Home" path={props.path} />
+            <Head title="Bojan Golubovic" path={props.path} />
             <div className={mainStyles.container}>
                 <h1 className={indexStyles.typing}>
                     <Typist avgTypingDelay={130} stdTypingDelay={30}>
