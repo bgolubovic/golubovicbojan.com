@@ -27,7 +27,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
             {
                 name: "twitter:description",
                 content:
-                    "I'm Bojan • JavaScript Engineer!",
+                    "I'm Bojan • Engineering Manager!",
             },
             {
                 name: "twitter:image",
@@ -52,7 +52,7 @@ const Head = ({ title, socialCardMeta, canonicalUrl, path }) => {
     const meta = [
         {
             name: "description",
-            content: "I'm Bojan • JavaScript Engineer!",
+            content: "I'm Bojan • Engineering Manager!",
         },
         ...socialCardMeta,
     ]
