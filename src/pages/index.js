@@ -111,25 +111,21 @@ const IndexPage = props => {
                     <br />
                 </h2>
                 <p>
-                    Engineering Manager | Head of Software Engineering | Technology Line Manager
+                    Engineering Manager | Head of Software Engineering
                 </p>
-                <p>
-                    I readily face the challenges of today’s technology. I am helping startups, entrepreneurs, and companies to grow faster, and build products and services which take their business to the next level using the latest technologies.
-                </p>
-                <p>
-                    Responsible for quality of the delivered code, providing support through the technical improvement of the teams, implementation of the standards and processes, project assessment, and selection process.
-                </p>
-                <p>
-                    Working in Symphony building world-class solutions for US-based start-ups.
-                    Helped company Astrata keep current and gain new customers and users on the company's flagship product by transferring products to new technologies. 
-                    Created cutting-edge technology products for company Solera, the most advanced and intelligent software solution, from scratch to 50k monthly users across the globe. Working in a full agile multinational team, with over 20 members. Organizing, maintaining, and improving large codebases with a focus on quality, reliability, and performance. Working with large data sets and complex data structures.
-                    Creator and architect of Seavus Online Banking Solution, a unique, reliable, and straightforward digital experience for private individuals and corporate customers.
-                    And many more...
-                </p>
-                <p>
-                    Highly passionate about cracking the toughest challenges. When it comes to the solutions, good is not good enough. I want it to be excellent, innovative, clean and cool. Understand design patterns and their implementation in real life coding problems and always strives to provide the best, but really the best practice solutions. Want to understand the business context and logic behind the software solutios?
-                </p>
-
+                <ul>
+                    <li>12 years of software development experience.</li>
+                    <li>3 years of management experience, with a focus on people management through leadership, career development, coaching, and mentoring.</li>
+                    <li>Integral part of a successful first AI hardware device startup story, contributing to raising several hundred million dollars in funding, highlighting the significant impact and business acumen.</li>
+                    <li>Scaled engineering teams to over 50 members, demonstrating effective team growth strategies and leadership.</li>
+                    <li>Led advanced software development projects achieving 50K monthly global users, showcasing project management and technical leadership.</li>
+                    <li>Revamped product technology to boost customer retention and acquisition, underlining a strong focus on product improvement and market competitiveness.</li>
+                    <li>Performance and talent management, including training, hiring, mentoring, and • developing talent to build and sustain high-performing teams.</li>
+                    <li>Strategic planning and project management, adept at budgeting, team selection & assembling, prioritization, and supervision.</li>
+                    <li>Time, resource, change, and risk management, ensuring projects meet strategic goals with optimized resource allocation.</li>
+                    <li>Selection processes to align team composition with company culture and strategic objectives.</li>
+                    <li>Fostered a culture of continuous learning within teams, emphasizing personal development and innovation in technological practices.</li>
+                </ul>  
                 <p>
                     If you have any needs, feel free to{" "}
                     <Link to="/contact" className={mainStyles.link}>
