@@ -139,11 +139,11 @@ const AboutPage = props => {
                 <div className={aboutStyle.skills}>
                     <Skill name="JavaScript" file="javascript" progress={90} />
                     <Skill name="TypeScript" file="typescript" progress={80} />
+                    <Skill name="NextJS" file="next-js" progress={90} />
                     <Skill name="React.js" file="react" progress={95} />
                     <Skill name="Redux" file="redux" progress={80} />
                     <Skill name="Vue.js" file="vuejs" progress={60} />
                     <Skill name="Node.js" file="nodejs" progress={50} />
-                    <Skill name="jQuery" file="jquery" progress={80} />
                     <Skill name="Gatsby.js" file="gatsbyjs" progress={50} />
                 </div>
                 <hr className={aboutStyle.gradientLine} />
