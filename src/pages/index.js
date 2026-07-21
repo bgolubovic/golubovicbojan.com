@@ -105,16 +105,16 @@ const IndexPage = props => {
                     </Typist>
                 </h1>
 
-                <h2 className={indexStyles.title}>
+                 <h2 className={indexStyles.title}>
                     I'm Bojan {profilePicture}
-                    &nbsp;Engineering Manager!
+                    &nbsp;— building AI-native SaaS
                     <br />
                 </h2>
                 <p>
                     Product Engineering
                 </p>
                 <p>
-                    Product-minded engineering leader with 13+ years building software and 3+ leading the people who ship it. Currently a Senior Product Engineer at RudderStack, building product end-to-end across a warehouse-native Customer Data Platform — while targeting my next engineering leadership role.
+                    Product-minded engineering leader with 13+ years building software and 3+ leading the people who ship it. Currently a Senior Product Engineer at RudderStack, building product end-to-end across a warehouse-native Customer Data Platform.
                 </p>
                 <ul>
                     <li>3+ years in engineering management — hiring, coaching, career development, and delivery for teams of 15+.</li>
