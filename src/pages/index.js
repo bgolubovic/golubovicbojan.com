@@ -111,21 +111,21 @@ const IndexPage = props => {
                     <br />
                 </h2>
                 <p>
-                    Engineering Manager | Head of Software Engineering
+                    Product Engineering
+                </p>
+                <p>
+                    Product-minded engineering leader with 13+ years building software and 3+ leading the people who ship it. Currently a Senior Product Engineer at RudderStack, building product end-to-end across a warehouse-native Customer Data Platform — while targeting my next engineering leadership role.
                 </p>
                 <ul>
-                    <li>12 years of software development experience.</li>
-                    <li>3 years of management experience, with a focus on people management through leadership, career development, coaching, and mentoring.</li>
-                    <li>Integral part of a successful first AI hardware device startup story, contributing to raising several hundred million dollars in funding, highlighting the significant impact and business acumen.</li>
-                    <li>Scaled engineering teams to over 50 members, demonstrating effective team growth strategies and leadership.</li>
-                    <li>Led advanced software development projects achieving 50K monthly global users, showcasing project management and technical leadership.</li>
-                    <li>Revamped product technology to boost customer retention and acquisition, underlining a strong focus on product improvement and market competitiveness.</li>
-                    <li>Performance and talent management, including training, hiring, mentoring, and • developing talent to build and sustain high-performing teams.</li>
-                    <li>Strategic planning and project management, adept at budgeting, team selection & assembling, prioritization, and supervision.</li>
-                    <li>Time, resource, change, and risk management, ensuring projects meet strategic goals with optimized resource allocation.</li>
-                    <li>Selection processes to align team composition with company culture and strategic objectives.</li>
-                    <li>Fostered a culture of continuous learning within teams, emphasizing personal development and innovation in technological practices.</li>
-                </ul>  
+                    <li>3+ years in engineering management — hiring, coaching, career development, and delivery for teams of 15+.</li>
+                    <li>Scaled engineering teams past 50 members and led product work to 50K+ monthly users worldwide.</li>
+                    <li>Early engineer at an AI hardware startup that raised several hundred million dollars in funding.</li>
+                    <li>Rebuilt product technology that lifted customer retention and acquisition.</li>
+                    <li>Own delivery end-to-end: planning, budgeting, prioritization, and resource, change, and risk management.</li>
+                    <li>Run hiring and selection to match team composition to culture and strategy.</li>
+                    <li>Build high-performing teams through mentoring and a culture of continuous learning.</li>
+                    <li>Work daily in the AI-native product space — agentic, spec-driven development, with human judgment kept in the loop.</li>
+                </ul>
                 <p>
                     If you have any needs, feel free to{" "}
                     <Link to="/contact" className={mainStyles.link}>
