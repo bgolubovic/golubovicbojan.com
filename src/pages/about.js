@@ -52,7 +52,7 @@ const AboutPage = props => {
                         </h1>
                         <p>
                             Hi, I'm Bojan,&nbsp;
-                            <strong>Engineering Manager</strong> 💻 with a
+                            <strong>Product Engineer/Manager</strong> 💻 with a
                             strong educational and experiance background in software
                             engineering.
                         </p>
